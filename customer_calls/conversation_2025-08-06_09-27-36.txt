@@ -1,0 +1,8 @@
+--- Conversation Log ---
+Session Date: 2025-08-06
+Session Start Time: 09:27:36
+--------------------------
+
+[09:28:02] Customer (en): My parking ID is TRK001. Can you tell me where it is located?
+[09:28:04] Assistant (en): No data was found for tracking ID TRK001.
+[09:28:04] Assistant (ta): TRK001 tracking ID க்கு எந்தத் தகவலும் கிடைக்கவில்லை.

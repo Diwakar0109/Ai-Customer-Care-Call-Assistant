@@ -1,0 +1,10 @@
+--- Conversation Log ---
+Session Date: 2025-08-06
+Session Start Time: 14:48:13
+--------------------------
+
+[14:48:13] Assistant (en): Welcome to Parcel Pal support. Please state your tracking ID.
+[14:48:13] Assistant (ta): பார்சல் பால் ஆதரவுக்கு வரவேற்கிறோம். உங்கள் கண்காணிப்பு அடையாள எண்ணை (tracking ID) குறிப்பிடவும்.
+[14:48:30] Customer (en): My identification number is TRK 1001.
+[14:48:31] Assistant (en): Your parcel to Customer 1 is currently out for delivery and is expected to be delivered on August 9th, 2025.
+[14:48:32] Assistant (ta): வாடிக்கையாளர் 1-க்கு அனுப்பப்பட்டுள்ள உங்களது parcel தற்போது டெலிவரி செய்யப்பட உள்ளது, மேலும் அது 9 ஆகஸ்ட் 2025 அன்று டெலிவரி செய்யப்படும் என்று எதிர்பார்க்கப்படுகிறது.

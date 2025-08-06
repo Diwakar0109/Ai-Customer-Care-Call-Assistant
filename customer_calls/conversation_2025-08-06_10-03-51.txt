@@ -1,0 +1,8 @@
+--- Conversation Log ---
+Session Date: 2025-08-06
+Session Start Time: 10:03:51
+--------------------------
+
+[10:04:16] Customer (en): Okay, but I can tell you as a fan. My tracking ID is GRK1000, can you tell me how that is?
+[10:04:19] Assistant (en): No data was found for tracking ID GRK1000.
+[10:04:19] Assistant (ta): GRK1000 tracking ID க்கு எந்தத் தகவலும் கிடைக்கவில்லை.

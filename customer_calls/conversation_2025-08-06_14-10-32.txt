@@ -1,0 +1,14 @@
+--- Conversation Log ---
+Session Date: 2025-08-06
+Session Start Time: 14:10:32
+--------------------------
+
+[14:10:56] Customer (en): My parcel ID is 1001. Tell me where it is now.
+[14:10:57] Assistant (en): Sorry, no information was found for that tracking ID.
+[14:10:58] Assistant (ta): மன்னிக்கவும், அந்தத் tracking ID-க்கு எந்தத் தகவலும் கிடைக்கவில்லை.
+[14:11:12] Customer (en): My tracking ID is TRK 1001. Can you tell me where it is now?
+[14:11:14] Assistant (en): Your parcel is currently out for delivery and is expected to be delivered on August 9th. It is currently located in Chennai.
+[14:11:15] Assistant (ta): உங்களது பொதிகை தற்போது டெலிவரி செய்யப்படுகிறது, மேலும் ஆகஸ்ட் 9 ஆம் தேதி சென்னையில் டெலிவரி செய்யப்படும் என்று எதிர்பார்க்கப்படுகிறது.
+[14:11:32] Customer (en): Hello, how are you?
+[14:11:33] Assistant (en): Hello! How can I assist you today?
+[14:11:34] Assistant (ta): வணக்கம்! இன்று நான் உங்களுக்கு எவ்வாறு உதவ முடியும்?

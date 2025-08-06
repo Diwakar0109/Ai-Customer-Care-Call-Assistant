@@ -1,0 +1,8 @@
+--- Conversation Log ---
+Session Date: 2025-08-06
+Session Start Time: 09:24:14
+--------------------------
+
+[09:24:37] Customer (en): My parcel ID is TRK18001. Can you tell me where it is now?
+[09:24:40] Assistant (en): No data was found for tracking ID TRK18001.
+[09:24:41] Assistant (ta): tracking ID TRK18001-ஐக் கண்காணிக்க எந்தத் தகவலும் கிடைக்கவில்லை.

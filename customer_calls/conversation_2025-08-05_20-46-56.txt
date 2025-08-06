@@ -1,0 +1,11 @@
+--- Conversation Log ---
+Session Date: 2025-08-05
+Session Start Time: 20:46:56
+--------------------------
+
+[20:47:22] Customer: My parcel ID is TRK 1001. Where is it now? Has it been delivered to me or not?
+[20:47:54] Assistant: Your parcel TRK 1001 is out for delivery and currently in Chennai. It is expected to be delivered on 2025-08-09.
+[20:48:04] Customer: I don't understand anything you are saying. Are you speaking to me in Tamil? I don't understand anything you are saying.
+[20:48:09] Assistant: The FAQ information service is currently unavailable.
+[20:48:17] Customer: If I ask you to speak in Tamil, why do you say it's unavailable?
+[20:48:23] Assistant: The FAQ information service is currently unavailable.

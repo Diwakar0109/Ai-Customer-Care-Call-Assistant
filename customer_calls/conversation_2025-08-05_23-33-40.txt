@@ -1,0 +1,8 @@
+--- Conversation Log ---
+Session Date: 2025-08-05
+Session Start Time: 23:33:40
+--------------------------
+
+[23:34:10] Customer (en): My tracking number is TRK 1001. Can you tell me where it is now?
+[23:34:11] Assistant (en): Hello, I'd be happy to help you track your package. However, I need a bit more information from you. Can you please tell me which carrier your package is with (e.g. USPS, UPS, FedEx)?
+[23:34:12] Assistant (ta): வணக்கம், உங்கள் பொதிகளைக் கண்காணிக்க உதவுவதில் மகிழ்ச்சி அடைகிறேன். ஆனால், எனக்கு இன்னும் சற்று தகவல் தேவை. உங்கள் பொதி எந்தப் போக்குவரத்துக் கழகத்தின் (e.g. USPS, UPS, FedEx) கீழ் உள்ளது என்று கூறுங்கள்.

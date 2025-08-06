@@ -1,0 +1,8 @@
+--- Conversation Log ---
+Session Date: 2025-08-06
+Session Start Time: 10:59:48
+--------------------------
+
+[11:00:10] Customer (en): My tracking ID is 10001, where is it?
+[11:00:12] Assistant (en): No data was found for tracking ID 10001.
+[11:00:13] Assistant (ta): 10001 என்ற tracking ID-ஐக் கண்காணிப்பதற்கு எந்தத் தரவும் கிடைக்கவில்லை.

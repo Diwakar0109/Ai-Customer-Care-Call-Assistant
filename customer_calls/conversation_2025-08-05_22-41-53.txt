@@ -1,0 +1,7 @@
+--- Conversation Log ---
+Session Date: 2025-08-05
+Session Start Time: 22:41:53
+--------------------------
+
+[22:42:28] Customer: Hi, my parcel ID is TRK 1001. Where is it now?
+[22:42:55] Assistant: Parcel TRK 1001 is out for delivery, currently in Chennai, and expected delivery on 2025-08-09.

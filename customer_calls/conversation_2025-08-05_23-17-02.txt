@@ -1,0 +1,8 @@
+--- Conversation Log ---
+Session Date: 2025-08-05
+Session Start Time: 23:17:02
+--------------------------
+
+[23:17:26] Customer (en): My tracking ID is TRX 1001, can you tell me where it is?
+[23:17:27] Assistant (en): Hello, I'd be happy to help you track your parcel. However, I need a bit more information from you. Can you please tell me which shipping carrier you used to send the parcel, or which website you used to track it? This will help me provide you with the most accurate information.
+[23:17:28] Assistant (ta): வணக்கம், உங்கள் பொதிகளைக் கண்காணிக்க உதவி செய்கிறேன். ஆனால், எனக்கு இன்னும் சற்று தகவல் தேவை. பொதிகளை அனுப்ப நீங்கள் எந்த ஷிப்பிங் கேரியரைப் பயன்படுத்தினீர்கள்? அல்லது அதைக் கண்காணிக்க எந்த வலைத்தளத்தைப் பயன்படுத்தினீர்கள்? இது எனக்கு மிகவும் துல்லியமான தகவல்களை உங்களுக்கு வழங்க உதவும்.

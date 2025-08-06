@@ -1,0 +1,10 @@
+--- Conversation Log ---
+Session Date: 2025-08-06
+Session Start Time: 14:47:39
+--------------------------
+
+[14:47:39] Assistant (en): Welcome to Parcel Pal support. Please state your tracking ID.
+[14:47:40] Assistant (ta): பார்சல் பால் ஆதரவுக்கு வரவேற்கிறோம். உங்கள் கண்காணிப்பு அடையாள எண்ணை குறிப்பிடவும்.
+[14:47:55] Customer (en): My tracking ID is TRK 10001.
+[14:47:57] Assistant (en): Sorry, no information was found for tracking ID TRK10001.
+[14:47:57] Assistant (ta): மன்னிக்கவும், tracking ID TRK10001-க்கான தகவல் எதுவும் கிடைக்கவில்லை.

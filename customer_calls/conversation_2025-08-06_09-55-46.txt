@@ -1,0 +1,8 @@
+--- Conversation Log ---
+Session Date: 2025-08-06
+Session Start Time: 09:55:46
+--------------------------
+
+[09:56:10] Customer (en): My tracking ID is TRK 1001, can you tell me where it is?
+[09:56:12] Assistant (en): The tracking information for ID TRK1001 indicates that the package is out for delivery, currently located in Chennai, and is expected to be delivered on August 9, 2025.
+[09:56:13] Assistant (ta): ID TRK1001-க்கான கண்காணிப்புத் தகவல், இந்த பொதி டெலிவரிக்கு அனுப்பப்பட்டுள்ளது, தற்போது சென்னையில் உள்ளது, மேலும் 9 ஆகஸ்ட் 2025 அன்று டெலிவரி செய்யப்படும் என்று தெரிவிக்கிறது.

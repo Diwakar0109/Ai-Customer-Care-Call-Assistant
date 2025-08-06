@@ -1,0 +1,14 @@
+--- Conversation Log ---
+Session Date: 2025-08-06
+Session Start Time: 10:49:15
+--------------------------
+
+[10:49:42] Customer (en): My tracking ID is TRK1001. Can you tell me where that parcel is now?
+[10:49:43] Assistant (en): The tracking information for ID TRK1001 indicates that the package is out for delivery, expected to be delivered on August 9, 2025, and is currently located in Chennai.
+[10:49:44] Assistant (ta): ஐடி டிஆர்கே1001க்கான கண்காணிப்பு தகவல், இந்த பொதி டெலிவரிக்கு அனுப்பப்பட்டுள்ளதைக் குறிக்கிறது, இது 9 ஆகஸ்ட் 2025 அன்று டெலிவரி செய்யப்படும் என்றும் தற்போது சென்னையில் உள்ளது என்றும் தெரிவிக்கிறது.
+[10:49:48] Customer (en): What is the price of this vehicle?
+[10:49:51] Assistant (en): "Good morning, thank you for reaching out to us. I'd be happy to help you with your question about the vehicle. Can you please tell me a little more about the vehicle you're interested in, such as the make and model, so I can provide you with the most accurate pricing information?"
+[10:49:51] Assistant (ta): காலை வணக்கம், எங்களை தொடர்பு கொண்டதற்கு நன்றி. உங்கள் வாகனப் பிரச்சனைக்கு உதவுவதில் மகிழ்ச்சி அடைகிறேன். நீங்கள் விரும்பும் வாகனத்தின் உற்பத்தி நிறுவனம் மற்றும் மாடல் போன்ற கூடுதல் தகவல்களைத் தயவுசெய்து கூறுங்கள், அப்போதுதான் உங்களுக்கு மிகவும் துல்லியமான விலை விவரங்களை வழங்க இயலும்."
+[10:49:57] Customer (en): Okay, okay, okay, okay.
+[10:49:58] Assistant (en): Hello there, thank you for reaching out to us. I'm here to help with any questions or concerns you may have. Can you please tell me a bit more about what's on your mind, and how I can assist you today?
+[10:49:59] Assistant (ta): வணக்கம், எங்களை தொடர்பு கொண்டதற்கு நன்றி. உங்கள் மனதில் என்ன இருக்கிறது, இன்று நான் உங்களுக்கு எவ்வாறு உதவ முடியும்?

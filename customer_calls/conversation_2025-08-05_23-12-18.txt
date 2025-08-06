@@ -1,0 +1,8 @@
+--- Conversation Log ---
+Session Date: 2025-08-05
+Session Start Time: 23:12:18
+--------------------------
+
+[23:12:45] Customer (en): My order ID is TRK 1001. Can you tell me where my parcel is?
+[23:12:51] Assistant (en): Hello, I'd be happy to help you track your parcel. To get started, could you please tell me what carrier or service you used to ship your order with the ID TRK 1001?
+[23:12:52] Assistant (ta): வணக்கம், உங்கள் பாகத்தை கண்காணிக்க உதவி செய்கிறேன். ID TRK 1001 என்ற எண்ணில் உங்கள் ஆணையை அனுப்ப எந்தப் போக்குவரத்துக் கழகம் அல்லது சேவையைப் பயன்படுத்தினீர்கள் என்று கூறுங்கள்.

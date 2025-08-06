@@ -1,0 +1,8 @@
+--- Conversation Log ---
+Session Date: 2025-08-05
+Session Start Time: 23:18:43
+--------------------------
+
+[23:19:07] Customer (en): My tracking ID is TRK 1001. Where is that product now?
+[23:19:10] Assistant (en): Hello. I need a bit more information to track your package. Can you please tell me which shipping carrier you used (e.g. USPS, UPS, FedEx)?
+[23:19:10] Assistant (ta): வணக்கம். உங்கள் பொதிகளைக் கண்காணிக்க இன்னும் சிறிது தகவல் தேவை. நீங்கள் எந்த ஷிப்பிங் கேரியரைப் பயன்படுத்தினீர்கள் (எ.g. USPS, UPS, FedEx) என்று கூறுங்கள்.

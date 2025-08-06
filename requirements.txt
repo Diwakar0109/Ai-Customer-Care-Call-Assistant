@@ -1,0 +1,13 @@
+sarvamai
+python-dotenv
+pyaudio
+webrtcvad
+pygame
+langchain
+faiss-cpu
+sentence-transformers
+pandas
+openpyxl
+elevenlabs
+groq
+websockets

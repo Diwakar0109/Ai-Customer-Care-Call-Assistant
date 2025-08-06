@@ -1,0 +1,8 @@
+--- Conversation Log ---
+Session Date: 2025-08-06
+Session Start Time: 10:08:48
+--------------------------
+
+[10:09:13] Customer (en): My tracking ID is TRK 10001. Can you tell me where it is now?
+[10:09:14] Assistant (en): No data was found for tracking ID TRK10001.
+[10:09:15] Assistant (ta): tracking ID TRK10001-ஐக் கண்காணிக்க எந்தத் தகவலும் கிடைக்கவில்லை.

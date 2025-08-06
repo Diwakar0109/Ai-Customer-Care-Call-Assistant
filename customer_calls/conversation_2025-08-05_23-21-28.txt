@@ -1,0 +1,9 @@
+--- Conversation Log ---
+Session Date: 2025-08-05
+Session Start Time: 23:21:28
+--------------------------
+
+[23:21:53] Customer (en): My tracking ID is TRK 1001. Where is it now?
+[23:21:54] Assistant (en): Hello, I'm Parcel Pal. To get the most accurate tracking information, could you please tell me which carrier you're using (e.g. USPS, UPS, FedEx)?
+[23:21:55] Assistant (ta): வணக்கம், நான் பார்சல் பால். மிகவும் துல்லியமான tracking information-க்காக, நீங்கள் எந்த கேரியரைப் பயன்படுத்துகிறீர்கள் (எ.g. USPS, UPS, FedEx) என்று கூறுங்கள்.
+[23:22:00] Customer (en): What is the price of this vehicle?
